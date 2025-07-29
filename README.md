@@ -1,2 +1,2 @@
 # Deep_Learning
-Base exampkle of a Deep Learning Model
+Base example of a Deep Learning Model
